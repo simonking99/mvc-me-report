@@ -31,5 +31,10 @@ html {
     padding: 20px;
     list-style-type: none;
     text-align: left;
+    background: rgba(0,0,0,0.2);
+    color: white;
+}
+
+.sitefooter a{
     color: white;
 }
